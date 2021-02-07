@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovGeometrijskiLik\cvekŠpraljaJakovGeometrijskiLik\bin\Debug\cvekŠpraljaJakovGeometrijskiLik.exe.config
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovGeometrijskiLik\cvekŠpraljaJakovGeometrijskiLik\bin\Debug\cvekŠpraljaJakovGeometrijskiLik.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovGeometrijskiLik\cvekŠpraljaJakovGeometrijskiLik\bin\Debug\cvekŠpraljaJakovGeometrijskiLik.pdb
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovGeometrijskiLik\cvekŠpraljaJakovGeometrijskiLik\obj\Debug\cvekŠpraljaJakovGeometrijskiLik.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovGeometrijskiLik\cvekŠpraljaJakovGeometrijskiLik\obj\Debug\cvekŠpraljaJakovGeometrijskiLik.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovGeometrijskiLik\cvekŠpraljaJakovGeometrijskiLik\obj\Debug\cvekŠpraljaJakovGeometrijskiLik.exe
+C:\Users\Lenovo\source\repos\cvekŠpraljaJakovGeometrijskiLik\cvekŠpraljaJakovGeometrijskiLik\obj\Debug\cvekŠpraljaJakovGeometrijskiLik.pdb
